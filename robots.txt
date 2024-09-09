@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tionthoce.github.io/sitemap.html.gz
+Sitemap: https://tionthoce.github.io/app/sitemap.html.gz
+Sitemap: https://tionthoce.github.io/assets/sitemap.html.gz
+Sitemap: https://tionthoce.github.io/css/sitemap.html.gz
+Sitemap: https://tionthoce.github.io/includes/sitemap.html.gz
+Sitemap: https://tionthoce.github.io/item/sitemap.html.gz
+Sitemap: https://tionthoce.github.io/src/sitemap.html.gz
